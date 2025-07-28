@@ -1,0 +1,12 @@
+{
+    "manifest": [
+        {
+            "key": "assets/content/items/mods/carryhandlerail/carryhandlerail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}
