@@ -11,7 +11,7 @@
 			},
 			"Height": 1,
 			"Width": 1,
-			"Weight": 0.283,
+			"Weight": 0.143,
 			"SightingRange": 0,
 			"Slots": [
 				{
@@ -83,8 +83,8 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Kiba Arms carry handle rail mount",
-				"shortName": "KA RM",
+				"name": "Kiba Arms CHM carry handle rail mount",
+				"shortName": "CHM",
 				"description": "A Picatinny rail mount designed by Kiba Arms for AR-15/M16 carry handles. Allows installation of red dot and holographic sights without removing the carry handle. Lightweight and durable."
 			}
 		},
